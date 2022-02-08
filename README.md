@@ -8,6 +8,10 @@
 
 <img src="Capture.PNG" width="100%" />
 
+## Live Version
+
+[see live version here](https://reem-lab.github.io/Guess-my-number/)
+
 ## Built With
 
 - Languages: _**HTML, CSS, JavaScript**_
